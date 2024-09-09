@@ -43,3 +43,10 @@ Time Taken: A penalty is applied based on the time taken to guess the word.
 
 Lives Remaining: Players earn bonus points for each life they have remaining.
 
+## Dependencies
+
+requests: To fetch movie titles from the TMDB API.
+
+colorama: For colored output in the terminal.
+
+python-dotenv: For managing environment variables like API keys.
