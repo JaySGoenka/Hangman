@@ -32,9 +32,14 @@ After a game ends, a new player can start a game or the current session can be e
 The scoring system is based on:
 
 Difficulty Level:
+
 Easy: Base score of 10
+
 Medium: Base score of 20
+
 Hard: Base score of 30
+
 Time Taken: A penalty is applied based on the time taken to guess the word.
+
 Lives Remaining: Players earn bonus points for each life they have remaining.
 
